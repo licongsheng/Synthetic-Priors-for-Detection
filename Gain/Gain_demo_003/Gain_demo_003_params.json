@@ -1,0 +1,93 @@
+{
+  "class": "Gain",
+  "id": "Gain_demo_003",
+  "spot_counts": {
+    "Aqua": 2,
+    "Gold": 2,
+    "Green": 3,
+    "Red": 2
+  },
+  "dapi_params": {
+    "radius_px": 43.3771934112613,
+    "eccentricity": 0.8820381101289352,
+    "angle": 53.373089996494336,
+    "target_mean_intensity": 91.08044039178132,
+    "background_mean": 7.455136343042619,
+    "psf_sigma": 3.5492708462391995
+  },
+  "channels": {
+    "Gold": {
+      "count": 2,
+      "realized": {
+        "spots": [
+          {
+            "x": 39.0,
+            "y": 50.5,
+            "intensity": 207.57327154792077
+          },
+          {
+            "x": 39.0,
+            "y": 36.0,
+            "intensity": 269.75496133700193
+          }
+        ]
+      }
+    },
+    "Aqua": {
+      "count": 2,
+      "realized": {
+        "spots": [
+          {
+            "x": 59.0,
+            "y": 40.0,
+            "intensity": 207.4052831947017
+          },
+          {
+            "x": 86.0,
+            "y": 79.5,
+            "intensity": 249.03598960353094
+          }
+        ]
+      }
+    },
+    "Red": {
+      "count": 2,
+      "realized": {
+        "spots": [
+          {
+            "x": 47.5,
+            "y": 18.0,
+            "intensity": 280.50848740611667
+          },
+          {
+            "x": 41.0,
+            "y": 79.0,
+            "intensity": 174.55833905136666
+          }
+        ]
+      }
+    },
+    "Green": {
+      "count": 3,
+      "realized": {
+        "spots": [
+          {
+            "x": 89.0,
+            "y": 47.5,
+            "intensity": 211.56937417039424
+          },
+          {
+            "x": 54.5,
+            "y": 82.5,
+            "intensity": 251.43579288158531
+          },
+          {
+            "x": 77.5,
+            "y": 38.5,
+            "intensity": 306.92621484668814
+          }
+        ]
+      }
+    }
+  }
+}
