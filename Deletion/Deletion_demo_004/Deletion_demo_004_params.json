@@ -1,0 +1,83 @@
+{
+  "class": "Deletion",
+  "id": "Deletion_demo_004",
+  "spot_counts": {
+    "Aqua": 2,
+    "Gold": 1,
+    "Green": 2,
+    "Red": 2
+  },
+  "dapi_params": {
+    "radius_px": 43.16457043910754,
+    "eccentricity": 0.81427015973882,
+    "angle": 172.6499437069885,
+    "target_mean_intensity": 83.25804646376304,
+    "background_mean": 7.175504537113297,
+    "psf_sigma": 2.951476741722142
+  },
+  "channels": {
+    "Aqua": {
+      "count": 2,
+      "realized": {
+        "spots": [
+          {
+            "x": 62.5,
+            "y": 52.0,
+            "intensity": 190.74779142579118
+          },
+          {
+            "x": 21.5,
+            "y": 55.0,
+            "intensity": 228.35750668035482
+          }
+        ]
+      }
+    },
+    "Red": {
+      "count": 2,
+      "realized": {
+        "spots": [
+          {
+            "x": 35.5,
+            "y": 79.5,
+            "intensity": 180.45696911565915
+          },
+          {
+            "x": 69.0,
+            "y": 24.0,
+            "intensity": 232.76214085126693
+          }
+        ]
+      }
+    },
+    "Green": {
+      "count": 2,
+      "realized": {
+        "spots": [
+          {
+            "x": 26.5,
+            "y": 38.0,
+            "intensity": 299.40165456206626
+          },
+          {
+            "x": 80.5,
+            "y": 35.5,
+            "intensity": 311.6240176208979
+          }
+        ]
+      }
+    },
+    "Gold": {
+      "count": 1,
+      "realized": {
+        "spots": [
+          {
+            "x": 41.5,
+            "y": 39.5,
+            "intensity": 173.7257343913961
+          }
+        ]
+      }
+    }
+  }
+}
